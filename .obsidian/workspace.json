@@ -1,0 +1,200 @@
+{
+  "main": {
+    "id": "e400b511ff3274ac",
+    "type": "split",
+    "children": [
+      {
+        "id": "e5ee2eb0f9ceb5f2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "924d174db011092c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python/Замыкания.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dc57448372edad67",
+    "type": "split",
+    "children": [
+      {
+        "id": "5ea388e8f76dc7c8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "637d225147d99ce9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5247d14ef7b85a50",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "va",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b01c935a2212ac37",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 291.5
+  },
+  "right": {
+    "id": "17d74d5b1e68f218",
+    "type": "split",
+    "children": [
+      {
+        "id": "41bcfd30254991fb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "85dedbf7d9e93f8f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Python/Замыкания.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7aa0c498c4f511cc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Python/Замыкания.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "349b104073201c60",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5e03939a539c2453",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Python/Замыкания.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "canvas:Создать новый холст": false,
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "924d174db011092c",
+  "lastOpenFiles": [
+    "media/Pasted image 20230608221523.png",
+    "media/Pasted image 20230608221038.png",
+    "media/Pasted image 20230608195647.png",
+    "ООП/декораторы/геттеры,сеттеры,проперти.md",
+    "Python/Замыкания.md",
+    "Python/isinstance.md",
+    "media/Pasted image 20230608182931.png",
+    "Python/Методы строк.md",
+    "media/Pasted image 20230608131523.png",
+    "ООП/Теория/принципы ООП.md",
+    "ООП/Теория/Инкапсуляция.md",
+    "ООП/Теория/Принципы программирования.md",
+    "ООП/Теория/Теория.md",
+    "ООП/Теория/Public Protected Private.md",
+    "ООП/Теория/Моносостояние.md",
+    "media/Pasted image 20230607220826.png",
+    "ООП/MRO.md",
+    "ООП/Теория/Атрибуты класса.md",
+    "ООП/Абстрактный класс.md",
+    "ООП/магические методы/__repr__ & __str__.md",
+    "ООП/Теория/ООП.md",
+    "ООП/Теория",
+    "ООП/декораторы.md",
+    "ООП/декораторы",
+    "media/Pasted image 20230607220001.png",
+    "ООП/магические методы/__init__.md",
+    "ООП/магические методы/__dict__.md",
+    "media/Pasted image 20230607135654.png",
+    "ООП/магические методы.md",
+    "ООП/магические методы",
+    "ООП/декораторы/@dataclasses.md",
+    "ООП/setattr.md",
+    "ООП/getattr.md",
+    "media/Pasted image 20230607135319.png",
+    "media/Pasted image 20230607135144.png",
+    "Django/Django. Файлы/Отображение файлов.md",
+    "Без названия",
+    "media/Pasted image 20230605193045.png",
+    "Django/Django. Файлы/models FileField.md",
+    "Django/Django. View. CBV/ListView.md",
+    "Django/Django. Файлы",
+    "Без названия 1",
+    "Django",
+    "Django/Django. View. CBV",
+    "Django/Django. Формы. ModelForm",
+    "Django/Django. Формы.Forms",
+    "Без названия 1.canvas",
+    "Без названия.canvas"
+  ]
+}
