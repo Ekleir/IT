@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Интернет/Хэширование.md",
+                "file": "Тестирование/@pytest.fixture.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Интернет/Хэширование.md",
+                "file": "Тестирование/@pytest.fixture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Интернет/Хэширование.md",
+                "file": "Тестирование/@pytest.fixture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Интернет/Хэширование.md"
+                "file": "Тестирование/@pytest.fixture.md"
               }
             }
           }
@@ -148,52 +148,52 @@
   },
   "active": "924d174db011092c",
   "lastOpenFiles": [
-    "Big O/Сложность алгоритмов.md",
-    "Интернет/Хэширование.md",
-    "media/Pasted image 20230611204557.png",
-    "media/Pasted image 20230611202742.png",
-    "media/Pasted image 20230611193042.png",
-    "media/Pasted image 20230611192958.png",
-    "media/Pasted image 20230611192816.png",
-    "media/Pasted image 20230611192741.png",
-    "media/Pasted image 20230611192654.png",
-    "media/Pasted image 20230611192545.png",
-    "media/Pasted image 20230611192309.png",
-    "media/Pasted image 20230611192231.png",
-    "Python/Замыкания.md",
-    "Big O",
-    "ООП/декораторы/геттеры,сеттеры,проперти.md",
-    "Python/isinstance.md",
-    "Python/Методы строк.md",
-    "ООП/Теория/принципы ООП.md",
-    "ООП/Теория/Инкапсуляция.md",
+    "media/Pasted image 20230617192412.png",
+    "media/Pasted image 20230617191005.png",
+    "media/Pasted image 20230617190801.png",
+    "Тестирование/База.md",
+    "Тестирование/@pytest.fixture.md",
+    "media/Pasted image 20230617184952.png",
+    "media/Pasted image 20230617183600.png",
+    "Тестирование/pytest.raises.md",
+    "media/Pasted image 20230617160654.png",
+    "media/Pasted image 20230617155025.png",
+    "Тестирование/@pytest.mark.parametrize('a, b, expected_result').md",
+    "media/Pasted image 20230617153748.png",
+    "media/Pasted image 20230617141422.png",
+    "media/Pasted image 20230617141252.png",
+    "Тестирование/Assertion.md",
+    "media/Pasted image 20230617140453.png",
+    "Свой проект/requirements.txt.md",
+    "Тестирование",
+    "SQL/SQLAlchemy/База.md",
+    "Алгоритмы и структуры данных/Графы.md",
+    "SQL/SQLAlchemy",
+    "SQL",
+    "Алгоритмы и структуры данных/КМП-алгоритм.md",
+    "Алгоритмы и структуры данных/Массив и списки.md",
+    "Алгоритмы и структуры данных/Прямой поиск.md",
     "ООП/Теория/Принципы программирования.md",
-    "ООП/Теория/Теория.md",
-    "ООП/Теория/Public Protected Private.md",
-    "ООП/Теория/Моносостояние.md",
-    "ООП/MRO.md",
-    "ООП/Теория/Атрибуты класса.md",
-    "ООП/Абстрактный класс.md",
-    "ООП/магические методы/__repr__ & __str__.md",
     "ООП/Теория/ООП.md",
+    "ООП/Теория/принципы ООП.md",
+    "Интернет/API.md",
+    "Интернет/ЯП виды.md",
+    "Django/Django. база/Templates/Templates.md",
+    "Django/Django. база/Начало проекта Django.md",
+    "Django/Django. база/Templates",
+    "Алгоритмы и структуры данных/Хэш таблицы.md",
+    "Алгоритмы и структуры данных/Хэширование.md",
+    "Алгоритмы и структуры данных/Big O/Сложность алгоритмов.md",
+    "Алгоритмы и структуры данных/Рекурсия.md",
+    "Алгоритмы и структуры данных/Сортировка пузырьком.md",
+    "Алгоритмы и структуры данных/Слияние списков. Метод двух указателей.md",
+    "Алгоритмы и структуры данных/Виды.md",
+    "Алгоритмы и структуры данных",
+    "Алгоритмы и структуры данных/Big O",
     "ООП/Теория",
-    "ООП/декораторы.md",
     "ООП/декораторы",
-    "ООП/магические методы/__init__.md",
-    "ООП/магические методы/__dict__.md",
-    "ООП/магические методы.md",
     "ООП/магические методы",
-    "ООП/декораторы/@dataclasses.md",
-    "ООП/setattr.md",
-    "ООП/getattr.md",
-    "Django/Django. Файлы/Отображение файлов.md",
-    "Без названия",
-    "Django/Django. Файлы/models FileField.md",
     "Django/Django. Файлы",
-    "Django",
-    "Django/Django. View. CBV",
-    "Django/Django. Формы. ModelForm",
-    "Django/Django. Формы.Forms",
     "Без названия 1.canvas",
     "Без названия.canvas"
   ]
