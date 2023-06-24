@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Django/Django. Связи между таблицами/ManyToOne.md",
+                "file": "GIT/База.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "slave",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Django/Django. Связи между таблицами/ManyToOne.md",
+                "file": "GIT/База.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Django/Django. Связи между таблицами/ManyToOne.md",
+                "file": "GIT/База.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Django/Django. Связи между таблицами/ManyToOne.md"
+                "file": "GIT/База.md"
               }
             }
           }
@@ -147,25 +146,35 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "5247d14ef7b85a50",
+  "active": "924d174db011092c",
   "lastOpenFiles": [
-    "Тестирование/@pytest.mark.parametrize('a, b, expected_result').md",
-    "Тестирование/responses.md",
-    "media/Pasted image 20230618202242.png",
-    "media/Pasted image 20230618201112.png",
-    "media/Pasted image 20230618200822.png",
+    "media/Pasted image 20230623191748.png",
+    "media/Pasted image 20230623191715.png",
+    "media/Pasted image 20230623191042.png",
+    "media/Pasted image 20230623170838.png",
+    "Django/Django. база/Templates/Templates.md",
+    "GIT/База.md",
+    "Python/f'строка, возможности.md",
+    "media/Pasted image 20230621174241.png",
+    "media/Pasted image 20230621174052.png",
+    "media/Pasted image 20230621173622.png",
+    "media/Pasted image 20230621173515.png",
+    "media/Pasted image 20230620233623.png",
+    "media/Pasted image 20230620233157.png",
+    "media/Pasted image 20230620233103.png",
+    "HTML&CSS/HTML CSS.md",
+    "~$ML & CSS.docx",
+    "Django/Django. база/URL. Конвертеры роутов.md",
+    "Django/Django. база/requirements.txt.md",
+    "Свой проект/Сайт для создания своих персонажей.md",
     "Тестирование/@pytest.fixture.md",
-    "media/Pasted image 20230617192412.png",
-    "media/Pasted image 20230617191005.png",
-    "media/Pasted image 20230617190801.png",
+    "GIT",
+    "Тестирование/responses.md",
+    "Django/Django. Связи между таблицами/ManyToOne.md",
+    "Тестирование/@pytest.mark.parametrize('a, b, expected_result').md",
     "Тестирование/База.md",
-    "media/Pasted image 20230617184952.png",
-    "media/Pasted image 20230617183600.png",
     "Тестирование/pytest.raises.md",
-    "media/Pasted image 20230617160654.png",
-    "media/Pasted image 20230617155025.png",
     "Тестирование/Assertion.md",
-    "Свой проект/requirements.txt.md",
     "Тестирование",
     "SQL/SQLAlchemy/База.md",
     "Алгоритмы и структуры данных/Графы.md",
@@ -179,21 +188,12 @@
     "ООП/Теория/принципы ООП.md",
     "Интернет/API.md",
     "Интернет/ЯП виды.md",
-    "Django/Django. база/Templates/Templates.md",
     "Django/Django. база/Начало проекта Django.md",
     "Django/Django. база/Templates",
-    "Алгоритмы и структуры данных/Хэш таблицы.md",
-    "Алгоритмы и структуры данных/Хэширование.md",
-    "Алгоритмы и структуры данных/Big O/Сложность алгоритмов.md",
-    "Алгоритмы и структуры данных/Рекурсия.md",
-    "Алгоритмы и структуры данных/Сортировка пузырьком.md",
-    "Алгоритмы и структуры данных/Слияние списков. Метод двух указателей.md",
     "Алгоритмы и структуры данных",
     "Алгоритмы и структуры данных/Big O",
     "ООП/Теория",
     "ООП/декораторы",
-    "ООП/магические методы",
-    "Django/Django. Файлы",
     "Без названия 1.canvas",
     "Без названия.canvas"
   ]
