@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GIT/База.md",
+                "file": "SQL/Postqres/SELECT.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GIT/База.md",
+                "file": "SQL/Postqres/SELECT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GIT/База.md",
+                "file": "SQL/Postqres/SELECT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GIT/База.md"
+                "file": "SQL/Postqres/SELECT.md"
               }
             }
           }
@@ -148,20 +148,26 @@
   },
   "active": "924d174db011092c",
   "lastOpenFiles": [
-    "README.md",
-    "media/Pasted image 20230623191748.png",
-    "media/Pasted image 20230623191715.png",
-    "media/Pasted image 20230623191042.png",
-    "media/Pasted image 20230623170838.png",
-    "Django/Django. база/Templates/Templates.md",
+    "media/Pasted image 20230629205507.png",
+    "media/Pasted image 20230629205457.png",
+    "media/Pasted image 20230629203951.png",
+    "media/Pasted image 20230629202815.png",
+    "media/Pasted image 20230629202711.png",
+    "media/Pasted image 20230629202301.png",
+    "media/Pasted image 20230629202241.png",
+    "media/Pasted image 20230629201811.png",
+    "media/Pasted image 20230629201747.png",
+    "media/Pasted image 20230629201657.png",
+    "media/Pasted image 20230629200519.png",
+    "SQL/Postqres/Наполнение таблицы.md",
+    "SQL/Postqres/SELECT.md",
+    "SQL/Postqres/База.md",
+    "SQL/Postqres/DATA TYPE.md",
     "GIT/База.md",
+    "SQL/Postqres",
+    "README.md",
+    "Django/Django. база/Templates/Templates.md",
     "Python/f'строка, возможности.md",
-    "media/Pasted image 20230621174241.png",
-    "media/Pasted image 20230621174052.png",
-    "media/Pasted image 20230621173622.png",
-    "media/Pasted image 20230621173515.png",
-    "media/Pasted image 20230620233623.png",
-    "media/Pasted image 20230620233157.png",
     "HTML&CSS/HTML CSS.md",
     "~$ML & CSS.docx",
     "Django/Django. база/URL. Конвертеры роутов.md",
@@ -184,16 +190,10 @@
     "Алгоритмы и структуры данных/Массив и списки.md",
     "Алгоритмы и структуры данных/Прямой поиск.md",
     "ООП/Теория/Принципы программирования.md",
-    "ООП/Теория/ООП.md",
-    "ООП/Теория/принципы ООП.md",
-    "Интернет/API.md",
-    "Интернет/ЯП виды.md",
-    "Django/Django. база/Начало проекта Django.md",
     "Django/Django. база/Templates",
     "Алгоритмы и структуры данных",
     "Алгоритмы и структуры данных/Big O",
     "ООП/Теория",
-    "ООП/декораторы",
     "Без названия 1.canvas",
     "Без названия.canvas"
   ]
