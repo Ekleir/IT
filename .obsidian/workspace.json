@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL/Postqres/Foreign key.md",
+                "file": "SQL/Postqres/primary keys.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL/Postqres/Foreign key.md",
+                "file": "SQL/Postqres/primary keys.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL/Postqres/Foreign key.md",
+                "file": "SQL/Postqres/primary keys.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL/Postqres/Foreign key.md"
+                "file": "SQL/Postqres/primary keys.md"
               }
             }
           }
@@ -148,30 +148,37 @@
   },
   "active": "924d174db011092c",
   "lastOpenFiles": [
-    "media/Pasted image 20230701202858.png",
-    "media/Pasted image 20230701201841.png",
-    "media/Pasted image 20230701201816.png",
-    "SQL/Postqres/UPSERT, конфликты.md",
-    "SQL/Postqres/Foreign key.md",
-    "media/Pasted image 20230701193930.png",
-    "media/Pasted image 20230701193043.png",
-    "media/Pasted image 20230701192953.png",
-    "SQL/Postqres/валидация.md",
-    "media/Pasted image 20230701192101.png",
-    "SQL/Postqres/кодировка..md",
-    "SQL/Postqres/SET update.md",
-    "media/Pasted image 20230701190100.png",
-    "media/Pasted image 20230701185917.png",
-    "SQL/Postqres/Агрегация.md",
+    "SQL/ACID.md",
+    "SQL/Транзакции.md",
+    "SQL/Postqres/LIKE, постановочные знаки.md",
+    "SQL/Postqres/JOINS.md",
     "SQL/Postqres/База.md",
-    "media/Pasted image 20230701185606.png",
-    "media/Pasted image 20230701183111.png",
-    "SQL/Postqres/SELECT.md",
-    "SQL/Postqres/изменение таблицы.md",
-    "SQL/Postqres/primary keys.md",
-    "SQL/Postqres/Дата, время.md",
+    "SQL/Postqres/DELETE.md",
     "SQL/Postqres/Наполнение таблицы.md",
+    "SQL/Postqres/SELECT.md",
+    "SQL/Postqres/primary keys.md",
+    "SQL/Postqres/Foreign key.md",
     "SQL/Postqres/DATA TYPE.md",
+    "SQL/Postqres/ALTER, изменение таблицы.md",
+    "SQL/Postqres/Alias.md",
+    "SQL/Postqres/Сохранение в CSV.md",
+    "SQL/Postqres/Расширение UUID.md",
+    "SQL/Postqres/кодировка..md",
+    "SQL/Postqres/Дата, время.md",
+    "SQL/Postqres/валидация.md",
+    "SQL/Postqres/Агрегация.md",
+    "media/Pasted image 20230703152451.png",
+    "media/Pasted image 20230703152427.png",
+    "media/Pasted image 20230703152144.png",
+    "media/Pasted image 20230703151303.png",
+    "SQL/Postqres/SET update.md",
+    "media/Pasted image 20230703150848.png",
+    "media/Pasted image 20230703150838.png",
+    "SQL/Postqres/UPSERT, конфликты.md",
+    "media/Pasted image 20230703142527.png",
+    "media/Pasted image 20230702165729.png",
+    "media/Pasted image 20230702164910.png",
+    "media/Pasted image 20230702164343.png",
     "GIT/База.md",
     "SQL/Postqres",
     "README.md",
@@ -179,14 +186,7 @@
     "Python/f'строка, возможности.md",
     "HTML&CSS/HTML CSS.md",
     "~$ML & CSS.docx",
-    "Django/Django. база/URL. Конвертеры роутов.md",
-    "Django/Django. база/requirements.txt.md",
-    "Свой проект/Сайт для создания своих персонажей.md",
-    "Тестирование/@pytest.fixture.md",
     "GIT",
-    "Тестирование/responses.md",
-    "Django/Django. Связи между таблицами/ManyToOne.md",
-    "Тестирование/@pytest.mark.parametrize('a, b, expected_result').md",
     "Тестирование",
     "SQL/SQLAlchemy",
     "SQL",
