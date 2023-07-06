@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL/Postqres/primary keys.md",
+                "file": "Python/Итератор.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL/Postqres/primary keys.md",
+                "file": "Python/Итератор.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL/Postqres/primary keys.md",
+                "file": "Python/Итератор.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL/Postqres/primary keys.md"
+                "file": "Python/Итератор.md"
               }
             }
           }
@@ -148,43 +148,43 @@
   },
   "active": "924d174db011092c",
   "lastOpenFiles": [
+    "media/Pasted image 20230705194902.png",
+    "Python/Работа for.md",
+    "Python/Генератор.md",
+    "Python/Итератор.md",
+    "media/Pasted image 20230705191503.png",
+    "media/Pasted image 20230705185644.png",
+    "media/Pasted image 20230705001150.png",
+    "media/Pasted image 20230705000108.png",
+    "GIT/База.md",
+    "ООП/MRO.md",
+    "ООП/class type.md",
+    "ООП/class Meta.md",
+    "ООП/Абстрактный класс.md",
+    "Алгоритмы и структуры данных/Хэширование.md",
+    "Алгоритмы и структуры данных/Хэш таблицы.md",
+    "Алгоритмы и структуры данных/Сортировка пузырьком.md",
+    "Алгоритмы и структуры данных/Слияние списков. Метод двух указателей.md",
+    "Алгоритмы и структуры данных/Рекурсия.md",
+    "Алгоритмы и структуры данных/Прямой поиск.md",
+    "Алгоритмы и структуры данных/Массив и списки.md",
+    "Алгоритмы и структуры данных/КМП-алгоритм.md",
+    "Алгоритмы и структуры данных/Графы.md",
+    "README.md",
+    "SQL/Postqres/primary keys.md",
     "SQL/ACID.md",
     "SQL/Транзакции.md",
     "SQL/Postqres/LIKE, постановочные знаки.md",
     "SQL/Postqres/JOINS.md",
     "SQL/Postqres/База.md",
     "SQL/Postqres/DELETE.md",
-    "SQL/Postqres/Наполнение таблицы.md",
-    "SQL/Postqres/SELECT.md",
-    "SQL/Postqres/primary keys.md",
-    "SQL/Postqres/Foreign key.md",
-    "SQL/Postqres/DATA TYPE.md",
-    "SQL/Postqres/ALTER, изменение таблицы.md",
-    "SQL/Postqres/Alias.md",
-    "SQL/Postqres/Сохранение в CSV.md",
-    "SQL/Postqres/Расширение UUID.md",
-    "SQL/Postqres/кодировка..md",
-    "SQL/Postqres/Дата, время.md",
-    "SQL/Postqres/валидация.md",
-    "SQL/Postqres/Агрегация.md",
     "media/Pasted image 20230703152451.png",
     "media/Pasted image 20230703152427.png",
     "media/Pasted image 20230703152144.png",
     "media/Pasted image 20230703151303.png",
-    "SQL/Postqres/SET update.md",
     "media/Pasted image 20230703150848.png",
     "media/Pasted image 20230703150838.png",
-    "SQL/Postqres/UPSERT, конфликты.md",
-    "media/Pasted image 20230703142527.png",
-    "media/Pasted image 20230702165729.png",
-    "media/Pasted image 20230702164910.png",
-    "media/Pasted image 20230702164343.png",
-    "GIT/База.md",
     "SQL/Postqres",
-    "README.md",
-    "Django/Django. база/Templates/Templates.md",
-    "Python/f'строка, возможности.md",
-    "HTML&CSS/HTML CSS.md",
     "~$ML & CSS.docx",
     "GIT",
     "Тестирование",
