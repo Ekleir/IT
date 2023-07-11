@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Итератор.md",
+                "file": "Python/list особенности.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Итератор.md",
+                "file": "Python/list особенности.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Итератор.md",
+                "file": "Python/list особенности.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Итератор.md"
+                "file": "Python/list особенности.md"
               }
             }
           }
@@ -148,42 +148,42 @@
   },
   "active": "924d174db011092c",
   "lastOpenFiles": [
-    "media/Pasted image 20230706192927.png",
-    "media/Pasted image 20230706191057.png",
-    "media/Pasted image 20230706190708.png",
-    "media/Pasted image 20230706185938.png",
-    "Python/Работа for.md",
+    "media/Pasted image 20230712001238.png",
+    "Python/list tuple разница.md",
+    "Python/list особенности.md",
+    "media/Pasted image 20230712000047.png",
+    "media/Pasted image 20230712000020.png",
+    "media/Pasted image 20230711235948.png",
+    "Python/Неизменяемость кортежа.md",
+    "media/Pasted image 20230711234419.png",
+    "media/Pasted image 20230711233955.png",
+    "ООП/магические методы/__getitem__.md",
+    "ООП/магические методы/__setitem__.md",
+    "media/Pasted image 20230711224752.png",
+    "media/Pasted image 20230711224144.png",
+    "ООП/магические методы/__iter__ __next__.md",
     "Python/Итератор.md",
-    "media/Pasted image 20230705194902.png",
-    "Python/Генератор.md",
-    "media/Pasted image 20230705191503.png",
-    "media/Pasted image 20230705185644.png",
-    "media/Pasted image 20230705001150.png",
-    "media/Pasted image 20230705000108.png",
-    "GIT/База.md",
-    "ООП/MRO.md",
-    "ООП/class type.md",
-    "ООП/class Meta.md",
-    "ООП/Абстрактный класс.md",
-    "Алгоритмы и структуры данных/Хэширование.md",
-    "Алгоритмы и структуры данных/Хэш таблицы.md",
-    "Алгоритмы и структуры данных/Сортировка пузырьком.md",
-    "Алгоритмы и структуры данных/Слияние списков. Метод двух указателей.md",
-    "Алгоритмы и структуры данных/Рекурсия.md",
-    "Алгоритмы и структуры данных/Прямой поиск.md",
-    "Алгоритмы и структуры данных/Массив и списки.md",
-    "Алгоритмы и структуры данных/КМП-алгоритм.md",
-    "Алгоритмы и структуры данных/Графы.md",
-    "README.md",
-    "SQL/Postqres/primary keys.md",
-    "SQL/ACID.md",
-    "SQL/Транзакции.md",
-    "SQL/Postqres/LIKE, постановочные знаки.md",
-    "SQL/Postqres/JOINS.md",
-    "SQL/Postqres/База.md",
-    "SQL/Postqres/DELETE.md",
-    "media/Pasted image 20230703152451.png",
-    "media/Pasted image 20230703152427.png",
+    "media/Pasted image 20230711215231.png",
+    "media/Pasted image 20230711215155.png",
+    "media/Pasted image 20230711214248.png",
+    "ООП/магические методы/__init__.md",
+    "ООП/декораторы/@dataclasses.md",
+    "ООП/декораторы/геттеры,сеттеры,проперти.md",
+    "ООП/магические методы/__call__.md",
+    "ООП/магические методы/__len__.md",
+    "ООП/магические методы/__bool__.md",
+    "ООП/магические методы/__contains__.md",
+    "ООП/магические методы/__lt__ gt, le, ge.md",
+    "ООП/магические методы/__eq__.md",
+    "ООП/магические методы/__repr__ & __str__.md",
+    "Python/f'строка, возможности.md",
+    "Python/Singleton.md",
+    "ООП/Теория/Моносостояние.md",
+    "Python/Моносостояние.md",
+    "ООП/магические методы/__dict__.md",
+    "ООП/магические методы/__new__.md",
+    "_init__.md",
+    "Python/for. Принцип работы.md",
     "SQL/Postqres",
     "~$ML & CSS.docx",
     "GIT",
