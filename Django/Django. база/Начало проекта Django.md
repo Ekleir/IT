@@ -56,14 +56,5 @@ Run\Debug configuration ->
 
 Script path – *имя проекта* - manage.py
 
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+![[Pasted image 20230717162122.png]]
 
-Создание html:
-
-Создаём директорию templates в папке проекта. В ней создаём директорию с таким же названием приложения. В ней создаём html файл.
-
-Регистрируем этот путь в settings.py: ~~TEMPLATES - > DIRS: [BASE_DIR/~~~~имя приложения~~~~/'templates' ]~~
-
-**INSTALLED_APPS дописываем название из** **apps.py->name**
-
-From django.db.models import Q

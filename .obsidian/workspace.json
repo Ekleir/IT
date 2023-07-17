@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ООП/магические методы/__hash__.md",
+                "file": "Python/JSON.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "key",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ООП/магические методы/__hash__.md",
+                "file": "Python/JSON.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ООП/магические методы/__hash__.md",
+                "file": "Python/JSON.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ООП/магические методы/__hash__.md"
+                "file": "Python/JSON.md"
               }
             }
           }
@@ -148,42 +148,42 @@
   },
   "active": "924d174db011092c",
   "lastOpenFiles": [
-    "media/Pasted image 20230716232904.png",
-    "ООП/декораторы/@property.md",
+    "ООП/__slots__.md",
+    "Python/JSON.md",
+    "media/Pasted image 20230717234223.png",
+    "ООП/декораторы/@property. Сеттер, геттер.md",
+    "media/Pasted image 20230717232939.png",
+    "media/Pasted image 20230717225628.png",
+    "media/Pasted image 20230717205830.png",
+    "ООП/магические методы/__setatr__.md",
+    "ООП/магические методы/__bool__.md",
+    "ООП/Теория/Принципы программирования.md",
+    "Python/Замыкания.md",
+    "Python/Декоратор с параметрами.md",
+    "Python/Декоратор.md",
+    "Python/Шаблоны проектирования.md",
+    "Python/for. Принцип работы.md",
+    "Python/list tuple разница.md",
+    "Django/Django. база/Начало проекта Django.md",
+    "media/Pasted image 20230717162122.png",
+    "Django/Django. Формы. ModelForm/ModelForm. Создание формы из модели.md",
+    "Django/Django. Формы.Forms/Валидация(базовая, из формы).md",
+    "Django/Django. Формы в HTML/Form.md",
+    "Django/Django. Формы в HTML/button.md",
+    "Django/Django. Формы в HTML/Обработка POST.md",
+    "Django/Django. Формы в HTML/Валидация.md",
+    "Django/Django. View. CBV/Class Based Views.md",
+    "Django/Django. admin/Фильтры в админке.md",
     "ООП/магические методы/__hash__.md",
+    "media/Pasted image 20230716232904.png",
     "ООП/магические методы/__call__.md",
     "ООП/Теория/Моносостояние.md",
     "Python/Singleton.md",
     "Алгоритмы и структуры данных/Big O/Сложность алгоритмов.md",
-    "ООП/Теория/Принципы программирования.md",
     "media/Pasted image 20230714001523.png",
-    "ООП/Теория/принципы ООП.md",
-    "Python/global.md",
     "media/Pasted image 20230713233746.png",
     "media/Pasted image 20230713232959.png",
-    "ООП/__slots__.md",
     "media/Pasted image 20230713200619.png",
-    "ООП/магические методы/__setatr__.md",
-    "media/Pasted image 20230713195922.png",
-    "media/Pasted image 20230713194335.png",
-    "ООП/магические методы/__setitem__.md",
-    "ООП/магические методы/__dict__.md",
-    "media/Pasted image 20230713190839.png",
-    "ООП/декораторы/@staticmethod.md",
-    "media/Pasted image 20230713184959.png",
-    "media/Pasted image 20230713184555.png",
-    "ООП/декораторы/@classmethod.md",
-    "media/Pasted image 20230713182019.png",
-    "ООП/декораторы/@dataclasses.md",
-    "README.md",
-    "ООП/Атрибуты.md",
-    "ООП/декораторы/геттеры,сеттеры,проперти.md",
-    "Python/Замыкания.md",
-    "Python/Кортеж.md",
-    "Django/Django. база/Templates/Templates.md",
-    "Python/Декоратор с параметрами.md",
-    "Python/Декоратор.md",
-    "Python/isinstance.md",
     "SQL/Postqres",
     "~$ML & CSS.docx",
     "GIT",
