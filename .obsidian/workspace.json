@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ООП/Теория/Принципы программирования.md",
+                "file": "ООП/магические методы/__hash__.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ООП/Теория/Принципы программирования.md",
+                "file": "ООП/магические методы/__hash__.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ООП/Теория/Принципы программирования.md",
+                "file": "ООП/магические методы/__hash__.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ООП/Теория/Принципы программирования.md"
+                "file": "ООП/магические методы/__hash__.md"
               }
             }
           }
@@ -148,12 +148,19 @@
   },
   "active": "924d174db011092c",
   "lastOpenFiles": [
+    "media/Pasted image 20230716232904.png",
+    "ООП/декораторы/@property.md",
+    "ООП/магические методы/__hash__.md",
+    "ООП/магические методы/__call__.md",
+    "ООП/Теория/Моносостояние.md",
+    "Python/Singleton.md",
+    "Алгоритмы и структуры данных/Big O/Сложность алгоритмов.md",
+    "ООП/Теория/Принципы программирования.md",
     "media/Pasted image 20230714001523.png",
     "ООП/Теория/принципы ООП.md",
     "Python/global.md",
     "media/Pasted image 20230713233746.png",
     "media/Pasted image 20230713232959.png",
-    "ООП/декораторы/@property.md",
     "ООП/__slots__.md",
     "media/Pasted image 20230713200619.png",
     "ООП/магические методы/__setatr__.md",
@@ -167,7 +174,6 @@
     "media/Pasted image 20230713184555.png",
     "ООП/декораторы/@classmethod.md",
     "media/Pasted image 20230713182019.png",
-    "media/Pasted image 20230713181829.png",
     "ООП/декораторы/@dataclasses.md",
     "README.md",
     "ООП/Атрибуты.md",
@@ -178,12 +184,6 @@
     "Python/Декоратор с параметрами.md",
     "Python/Декоратор.md",
     "Python/isinstance.md",
-    "Python/list особенности.md",
-    "Python/list tuple разница.md",
-    "Python/Неизменяемость кортежа.md",
-    "ООП/магические методы/__getitem__.md",
-    "ООП/магические методы/__iter__ __next__.md",
-    "Python/Итератор.md",
     "SQL/Postqres",
     "~$ML & CSS.docx",
     "GIT",
