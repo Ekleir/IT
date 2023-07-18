@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/JSON.md",
+                "file": "Python/lambda.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "key",
+                "query": "lamb",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/JSON.md",
+                "file": "Python/lambda.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/JSON.md",
+                "file": "Python/lambda.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/JSON.md"
+                "file": "Python/lambda.md"
               }
             }
           }
@@ -148,8 +149,15 @@
   },
   "active": "924d174db011092c",
   "lastOpenFiles": [
-    "ООП/__slots__.md",
+    "media/Pasted image 20230719014057.png",
+    "media/Pasted image 20230719013331.png",
+    "media/Pasted image 20230719012740.png",
+    "media/Pasted image 20230719010824.png",
+    "Интернет/URI URL.md",
+    "Django/Django. БД/ORM.md",
+    "HTML&CSS/HTML CSS.md",
     "Python/JSON.md",
+    "ООП/__slots__.md",
     "media/Pasted image 20230717234223.png",
     "ООП/декораторы/@property. Сеттер, геттер.md",
     "media/Pasted image 20230717232939.png",
@@ -176,14 +184,7 @@
     "Django/Django. admin/Фильтры в админке.md",
     "ООП/магические методы/__hash__.md",
     "media/Pasted image 20230716232904.png",
-    "ООП/магические методы/__call__.md",
-    "ООП/Теория/Моносостояние.md",
-    "Python/Singleton.md",
-    "Алгоритмы и структуры данных/Big O/Сложность алгоритмов.md",
     "media/Pasted image 20230714001523.png",
-    "media/Pasted image 20230713233746.png",
-    "media/Pasted image 20230713232959.png",
-    "media/Pasted image 20230713200619.png",
     "SQL/Postqres",
     "~$ML & CSS.docx",
     "GIT",
