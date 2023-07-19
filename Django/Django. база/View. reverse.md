@@ -2,6 +2,6 @@
  
  redirect_url = reverse('horoscope-name', args=(name_zodiac,))
 
-  urlpatterns = [
-path('<str:sign_zodiac>/', views.get_info_about_sign_zodiac, name='horoscope-name'),
-]
+  urlpatterns = **[
+		path('<str:sign_zodiac>/', views.get_info_about_sign_zodiac, name='horoscope-name')]
+		]**

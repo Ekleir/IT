@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/lambda.md",
+                "file": "Тестирование/coverage.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "lamb",
+                "query": "reverse",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/lambda.md",
+                "file": "Тестирование/coverage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/lambda.md",
+                "file": "Тестирование/coverage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/lambda.md"
+                "file": "Тестирование/coverage.md"
               }
             }
           }
@@ -149,42 +148,43 @@
   },
   "active": "924d174db011092c",
   "lastOpenFiles": [
-    "media/Pasted image 20230719014057.png",
-    "media/Pasted image 20230719013331.png",
-    "media/Pasted image 20230719012740.png",
-    "media/Pasted image 20230719010824.png",
-    "Интернет/URI URL.md",
+    "Тестирование/sjango test serializer.md",
+    "Тестирование/coverage.md",
+    "media/Pasted image 20230720003929.png",
+    "Тестирование/django test api.md",
+    "Тестирование/django.test.md",
+    "Django/Django. база/View. reverse.md",
+    "media/Pasted image 20230719231201.png",
+    "media/Pasted image 20230719212730.png",
+    "media/Pasted image 20230719212622.png",
+    "media/Pasted image 20230719212504.png",
+    "SQL/Замена SQLite на PostgreSQL windows.md",
+    "media/Pasted image 20230719212417.png",
+    "SQL/Postqres/кодировка..md",
+    "Тестирование/ошибка переменной окружения.md",
+    "media/Pasted image 20230719211301.png",
+    "Тестирование/База.md",
+    "Django Rest Framework/view.md",
+    "Django Rest Framework/serializers.md",
+    "Django Rest Framework/router.md",
+    "Django Rest Framework/База.md",
+    "Тестирование/responses.md",
+    "Тестирование/pytest.raises.md",
+    "Тестирование/Assertion.md",
+    "Тестирование/@pytest.mark.parametrize('a, b, expected_result').md",
+    "Тестирование/@pytest.fixture.md",
+    "Python/r строка.md",
+    "Django/Django. БД/QuerySet, методы.md",
+    "media/Pasted image 20230719183635.png",
+    "media/Pasted image 20230719183430.png",
+    "media/Pasted image 20230719183300.png",
+    "Django/Django Rest Framework.md",
+    "Django Rest Framework",
     "Django/Django. БД/ORM.md",
-    "HTML&CSS/HTML CSS.md",
-    "Python/JSON.md",
-    "ООП/__slots__.md",
-    "media/Pasted image 20230717234223.png",
-    "ООП/декораторы/@property. Сеттер, геттер.md",
-    "media/Pasted image 20230717232939.png",
-    "media/Pasted image 20230717225628.png",
-    "media/Pasted image 20230717205830.png",
-    "ООП/магические методы/__setatr__.md",
-    "ООП/магические методы/__bool__.md",
-    "ООП/Теория/Принципы программирования.md",
-    "Python/Замыкания.md",
-    "Python/Декоратор с параметрами.md",
-    "Python/Декоратор.md",
-    "Python/Шаблоны проектирования.md",
-    "Python/for. Принцип работы.md",
-    "Python/list tuple разница.md",
+    "Django/Django. БД/База данных.md",
     "Django/Django. база/Начало проекта Django.md",
-    "media/Pasted image 20230717162122.png",
-    "Django/Django. Формы. ModelForm/ModelForm. Создание формы из модели.md",
-    "Django/Django. Формы.Forms/Валидация(базовая, из формы).md",
-    "Django/Django. Формы в HTML/Form.md",
-    "Django/Django. Формы в HTML/button.md",
-    "Django/Django. Формы в HTML/Обработка POST.md",
-    "Django/Django. Формы в HTML/Валидация.md",
-    "Django/Django. View. CBV/Class Based Views.md",
-    "Django/Django. admin/Фильтры в админке.md",
-    "ООП/магические методы/__hash__.md",
-    "media/Pasted image 20230716232904.png",
-    "media/Pasted image 20230714001523.png",
+    "Django/Django. база/requirements.txt.md",
+    "Django/Django. база/ngettext.md",
     "SQL/Postqres",
     "~$ML & CSS.docx",
     "GIT",
@@ -194,7 +194,6 @@
     "Django/Django. база/Templates",
     "Алгоритмы и структуры данных",
     "Алгоритмы и структуры данных/Big O",
-    "ООП/Теория",
     "Без названия 1.canvas",
     "Без названия.canvas"
   ]

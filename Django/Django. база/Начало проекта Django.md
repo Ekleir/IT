@@ -58,3 +58,5 @@ Script path – *имя проекта* - manage.py
 
 ![[Pasted image 20230717162122.png]]
 
+создание юзера __python manage.py createsuperuser__
+![[Pasted image 20230719175432.png]]
