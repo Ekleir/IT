@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Тестирование/coverage.md",
+                "file": "Django Rest Framework/SimpleRouter.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "reverse",
+                "query": "coverage",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Тестирование/coverage.md",
+                "file": "Django Rest Framework/SimpleRouter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Тестирование/coverage.md",
+                "file": "Django Rest Framework/SimpleRouter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Тестирование/coverage.md"
+                "file": "Django Rest Framework/SimpleRouter.md"
               }
             }
           }
@@ -148,52 +148,51 @@
   },
   "active": "924d174db011092c",
   "lastOpenFiles": [
-    "Тестирование/sjango test serializer.md",
-    "Тестирование/coverage.md",
-    "media/Pasted image 20230720003929.png",
-    "Тестирование/django test api.md",
-    "Тестирование/django.test.md",
-    "Django/Django. база/View. reverse.md",
-    "media/Pasted image 20230719231201.png",
-    "media/Pasted image 20230719212730.png",
-    "media/Pasted image 20230719212622.png",
-    "media/Pasted image 20230719212504.png",
-    "SQL/Замена SQLite на PostgreSQL windows.md",
-    "media/Pasted image 20230719212417.png",
-    "SQL/Postqres/кодировка..md",
-    "Тестирование/ошибка переменной окружения.md",
-    "media/Pasted image 20230719211301.png",
-    "Тестирование/База.md",
-    "Django Rest Framework/view.md",
-    "Django Rest Framework/serializers.md",
-    "Django Rest Framework/router.md",
-    "Django Rest Framework/База.md",
-    "Тестирование/responses.md",
-    "Тестирование/pytest.raises.md",
-    "Тестирование/Assertion.md",
+    "Django Rest Framework/OAuth.md",
+    "Django Rest Framework/Авторизация через соц.сети.md",
+    "media/Pasted image 20230721002130.png",
+    "media/Pasted image 20230721001853.png",
+    "media/oauth.html",
+    "media/Pasted image 20230721001443.png",
+    "media/Pasted image 20230721000630.png",
+    "media/Pasted image 20230721000605.png",
+    "media/Pasted image 20230720235338.png",
+    "media/Pasted image 20230720225330.png",
+    "media/Pasted image 20230720223947.png",
+    "Django Rest Framework/Аутентификация и авторизация.md",
+    "Django Rest Framework/Filter.md",
+    "Django Rest Framework/Фильтры",
+    "Django Rest Framework/Фильтры/DjangoFilterBackend.md",
+    "Django Rest Framework/Тесты/setUp.md",
+    "Django Rest Framework/Тесты/django test api.md",
+    "media/Pasted image 20230720213541.png",
+    "Django Rest Framework/Тесты/django.test.md",
+    "media/Pasted image 20230720205729.png",
+    "Django Rest Framework/Тесты/sjango test serializer.md",
     "Тестирование/@pytest.mark.parametrize('a, b, expected_result').md",
     "Тестирование/@pytest.fixture.md",
-    "Python/r строка.md",
-    "Django/Django. БД/QuerySet, методы.md",
-    "media/Pasted image 20230719183635.png",
-    "media/Pasted image 20230719183430.png",
-    "media/Pasted image 20230719183300.png",
-    "Django/Django Rest Framework.md",
+    "Тестирование/responses.md",
+    "Тестирование/Assertion.md",
+    "Тестирование/coverage.md",
+    "Тестирование/pytest.raises.md",
+    "Django Rest Framework/Тесты",
+    "Тестирование/База.md",
+    "Тестирование/ошибка переменной окружения.md",
+    "Django Rest Framework/Фильтры/OrderingFilter.md",
+    "Django Rest Framework/SimpleRouter.md",
+    "Django Rest Framework/Фильтры/SearchFilter.md",
+    "Django Rest Framework/ModelSerializer. сериализатор.md",
+    "Django Rest Framework/view.md",
+    "Django Rest Framework/браузер default json.md",
+    "Django Rest Framework/База.md",
+    "Django/Django. база/View. reverse.md",
     "Django Rest Framework",
-    "Django/Django. БД/ORM.md",
-    "Django/Django. БД/База данных.md",
-    "Django/Django. база/Начало проекта Django.md",
-    "Django/Django. база/requirements.txt.md",
-    "Django/Django. база/ngettext.md",
     "SQL/Postqres",
     "~$ML & CSS.docx",
     "GIT",
     "Тестирование",
     "SQL/SQLAlchemy",
     "SQL",
-    "Django/Django. база/Templates",
-    "Алгоритмы и структуры данных",
-    "Алгоритмы и структуры данных/Big O",
     "Без названия 1.canvas",
     "Без названия.canvas"
   ]
