@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Django Rest Framework/SimpleRouter.md",
+                "file": "Django Rest Framework/Permission/База.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Django Rest Framework/SimpleRouter.md",
+                "file": "Django Rest Framework/Permission/База.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Django Rest Framework/SimpleRouter.md",
+                "file": "Django Rest Framework/Permission/База.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Django Rest Framework/SimpleRouter.md"
+                "file": "Django Rest Framework/Permission/База.md"
               }
             }
           }
@@ -148,51 +148,52 @@
   },
   "active": "924d174db011092c",
   "lastOpenFiles": [
-    "Django Rest Framework/OAuth.md",
-    "Django Rest Framework/Авторизация через соц.сети.md",
-    "media/Pasted image 20230721002130.png",
-    "media/Pasted image 20230721001853.png",
+    "media/Pasted image 20230722010042.png",
+    "media/Pasted image 20230722010036.png",
+    "media/Pasted image 20230722005913.png",
+    "Django Rest Framework/Тесты/Django test api PUT.md",
+    "media/Pasted image 20230722004110.png",
+    "media/Pasted image 20230722003448.png",
+    "Django Rest Framework/Тесты/django test api POST.md",
+    "Django Rest Framework/Тесты/django test api.md",
+    "Django Rest Framework/Permission/База.md",
+    "media/Pasted image 20230721235854.png",
+    "media/Pasted image 20230721235750.png",
+    "media/Pasted image 20230721235541.png",
+    "media/Pasted image 20230721234158.png",
+    "media/Pasted image 20230721233741.png",
+    "media/Pasted image 20230721233611.png",
+    "Django Rest Framework/Без названия.md",
+    "Django Rest Framework/Permission",
+    "Django Rest Framework/SimpleRouter.md",
+    "Postman/DELETE.md",
+    "Postman/PUT запрос.md",
+    "Postman/Post запрос.md",
+    "Django Rest Framework/Авторизация/OAuth.md",
+    "Django Rest Framework/Авторизация/Аутентификация и авторизация.md",
+    "Django Rest Framework/Авторизация/Авторизация через соц.сети.md",
+    "Postman/GET запрос.md",
+    "Django Rest Framework/ModelSerializer. сериализатор.md",
+    "Postman",
+    "Django Rest Framework/Авторизация.md",
+    "Django Rest Framework/Авторизация",
     "media/oauth.html",
-    "media/Pasted image 20230721001443.png",
-    "media/Pasted image 20230721000630.png",
-    "media/Pasted image 20230721000605.png",
-    "media/Pasted image 20230720235338.png",
-    "media/Pasted image 20230720225330.png",
-    "media/Pasted image 20230720223947.png",
-    "Django Rest Framework/Аутентификация и авторизация.md",
     "Django Rest Framework/Filter.md",
     "Django Rest Framework/Фильтры",
     "Django Rest Framework/Фильтры/DjangoFilterBackend.md",
     "Django Rest Framework/Тесты/setUp.md",
-    "Django Rest Framework/Тесты/django test api.md",
-    "media/Pasted image 20230720213541.png",
     "Django Rest Framework/Тесты/django.test.md",
-    "media/Pasted image 20230720205729.png",
     "Django Rest Framework/Тесты/sjango test serializer.md",
     "Тестирование/@pytest.mark.parametrize('a, b, expected_result').md",
     "Тестирование/@pytest.fixture.md",
     "Тестирование/responses.md",
     "Тестирование/Assertion.md",
     "Тестирование/coverage.md",
-    "Тестирование/pytest.raises.md",
     "Django Rest Framework/Тесты",
-    "Тестирование/База.md",
-    "Тестирование/ошибка переменной окружения.md",
-    "Django Rest Framework/Фильтры/OrderingFilter.md",
-    "Django Rest Framework/SimpleRouter.md",
-    "Django Rest Framework/Фильтры/SearchFilter.md",
-    "Django Rest Framework/ModelSerializer. сериализатор.md",
-    "Django Rest Framework/view.md",
-    "Django Rest Framework/браузер default json.md",
-    "Django Rest Framework/База.md",
-    "Django/Django. база/View. reverse.md",
     "Django Rest Framework",
     "SQL/Postqres",
     "~$ML & CSS.docx",
     "GIT",
-    "Тестирование",
-    "SQL/SQLAlchemy",
-    "SQL",
     "Без названия 1.canvas",
     "Без названия.canvas"
   ]
