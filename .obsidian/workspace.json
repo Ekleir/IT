@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Django Rest Framework/Permission/База.md",
+                "file": "Django Rest Framework/ModelSerializer. сериализатор.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "coverage",
+                "query": "envi",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Django Rest Framework/Permission/База.md",
+                "file": "Django Rest Framework/ModelSerializer. сериализатор.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Django Rest Framework/Permission/База.md",
+                "file": "Django Rest Framework/ModelSerializer. сериализатор.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Django Rest Framework/Permission/База.md"
+                "file": "Django Rest Framework/ModelSerializer. сериализатор.md"
               }
             }
           }
@@ -148,22 +148,28 @@
   },
   "active": "924d174db011092c",
   "lastOpenFiles": [
+    "Django Rest Framework/Тесты/setUp.md",
+    "Django Rest Framework/Тесты/sjango test serializer.md",
+    "Тестирование/ошибка переменной окружения.md",
+    "Django Rest Framework/ModelSerializer. сериализатор.md",
+    "media/Pasted image 20230722233422.png",
+    "media/Pasted image 20230722233259.png",
+    "Django Rest Framework/lookup_field get_object.md",
+    "media/Pasted image 20230722230731.png",
+    "media/Pasted image 20230722230051.png",
+    "media/Pasted image 20230722225259.png",
+    "Django/Django. admin/Настройка отображения списка.md",
+    "Django/Django. admin/Настройка формы элемента.md",
+    "Django/Django. Связи между таблицами/ManyToMany.md",
+    "media/Pasted image 20230722151608.png",
+    "Django Rest Framework/Permission/База.md",
+    "media/Pasted image 20230722150954.png",
     "media/Pasted image 20230722010042.png",
     "media/Pasted image 20230722010036.png",
     "media/Pasted image 20230722005913.png",
     "Django Rest Framework/Тесты/Django test api PUT.md",
-    "media/Pasted image 20230722004110.png",
-    "media/Pasted image 20230722003448.png",
     "Django Rest Framework/Тесты/django test api POST.md",
     "Django Rest Framework/Тесты/django test api.md",
-    "Django Rest Framework/Permission/База.md",
-    "media/Pasted image 20230721235854.png",
-    "media/Pasted image 20230721235750.png",
-    "media/Pasted image 20230721235541.png",
-    "media/Pasted image 20230721234158.png",
-    "media/Pasted image 20230721233741.png",
-    "media/Pasted image 20230721233611.png",
-    "Django Rest Framework/Без названия.md",
     "Django Rest Framework/Permission",
     "Django Rest Framework/SimpleRouter.md",
     "Postman/DELETE.md",
@@ -173,7 +179,6 @@
     "Django Rest Framework/Авторизация/Аутентификация и авторизация.md",
     "Django Rest Framework/Авторизация/Авторизация через соц.сети.md",
     "Postman/GET запрос.md",
-    "Django Rest Framework/ModelSerializer. сериализатор.md",
     "Postman",
     "Django Rest Framework/Авторизация.md",
     "Django Rest Framework/Авторизация",
@@ -181,14 +186,9 @@
     "Django Rest Framework/Filter.md",
     "Django Rest Framework/Фильтры",
     "Django Rest Framework/Фильтры/DjangoFilterBackend.md",
-    "Django Rest Framework/Тесты/setUp.md",
     "Django Rest Framework/Тесты/django.test.md",
-    "Django Rest Framework/Тесты/sjango test serializer.md",
     "Тестирование/@pytest.mark.parametrize('a, b, expected_result').md",
     "Тестирование/@pytest.fixture.md",
-    "Тестирование/responses.md",
-    "Тестирование/Assertion.md",
-    "Тестирование/coverage.md",
     "Django Rest Framework/Тесты",
     "Django Rest Framework",
     "SQL/Postqres",
