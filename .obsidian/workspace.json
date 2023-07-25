@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Django/Django. БД/QuerySet. Агрегация данных.md",
+                "file": "Linux/Vim.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Django/Django. БД/QuerySet. Агрегация данных.md",
+                "file": "Linux/Vim.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Django/Django. БД/QuerySet. Агрегация данных.md",
+                "file": "Linux/Vim.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Django/Django. БД/QuerySet. Агрегация данных.md"
+                "file": "Linux/Vim.md"
               }
             }
           }
@@ -149,6 +148,23 @@
   },
   "active": "924d174db011092c",
   "lastOpenFiles": [
+    "Linux/команды.md",
+    "Linux/Vim.md",
+    "Linux/Сетевые инструменты.md",
+    "Linux/подключение.md",
+    "Linux/База.md",
+    "Интернет/TCP_IP.md",
+    "Интернет/Путь загрузки страницы.md",
+    "media/Pasted image 20230726000407.png",
+    "Интернет/SOAP.md",
+    "Django Rest Framework/REST API.md",
+    "Django Rest Framework/API.md",
+    "Интернет/Http Https.md",
+    "Интернет/ЯП виды.md",
+    "Интернет/Процессор.md",
+    "Интернет/Коды ответа HTTP.md",
+    "Django/Django. БД/QuerySet. Агрегация данных.md",
+    "Linux",
     "Django/Django. БД/Оптимизация..md",
     "Django Rest Framework/Тесты/CaptureQueriesContext.md",
     "media/Pasted image 20230724181339.png",
@@ -166,25 +182,10 @@
     "Python/list особенности.md",
     "Python/list tuple разница.md",
     "Python/Неизменяемость кортежа.md",
-    "README.md",
-    "Django Rest Framework/Serializers/serializers.IntegerField.md",
     "media/Pasted image 20230723185605.png",
     "media/Pasted image 20230723172846.png",
-    "Django/Django. база/Count, Case, When.md",
-    "Django Rest Framework/Serializers/ModelSerializer. сериализатор.md",
-    "Django Rest Framework/Serializers/SerializerMethodField.md",
     "media/Pasted image 20230723171946.png",
-    "media/Pasted image 20230723171638.png",
-    "Postman/PATCH запрос.md",
     "Django Rest Framework/Serializers",
-    "Django Rest Framework/База.md",
-    "Django Rest Framework/API для клиента.md",
-    "Django Rest Framework/lookup_field get_object.md",
-    "Django Rest Framework/Тесты/setUp.md",
-    "Django Rest Framework/Тесты/sjango test serializer.md",
-    "Тестирование/ошибка переменной окружения.md",
-    "Django/Django. admin/Настройка отображения списка.md",
-    "Django/Django. admin/Настройка формы элемента.md",
     "Django Rest Framework/Permission",
     "Postman",
     "Django Rest Framework/Авторизация",
@@ -193,7 +194,6 @@
     "Django Rest Framework/Тесты",
     "Django Rest Framework",
     "SQL/Postqres",
-    "~$ML & CSS.docx",
     "Без названия 1.canvas",
     "Без названия.canvas"
   ]
