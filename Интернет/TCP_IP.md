@@ -1,4 +1,3 @@
-https://www.youtube.com/watch?v=2I1HnSN1H9o
 
 IP-адрес ПК(хоста,узла)  0-255. 0-255. 0-255. 0-255
 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Vim.md",
+                "file": "Интернет/OSI.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "aggregate",
+                "query": "Прокси ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/Vim.md",
+                "file": "Интернет/OSI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/Vim.md",
+                "file": "Интернет/OSI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/Vim.md"
+                "file": "Интернет/OSI.md"
               }
             }
           }
@@ -148,12 +148,29 @@
   },
   "active": "924d174db011092c",
   "lastOpenFiles": [
+    "Интернет/Прокси-сервер.md",
+    "Интернет/OSI.md",
     "Linux/команды.md",
-    "Linux/Vim.md",
-    "Linux/Сетевые инструменты.md",
+    "Linux/Комментарии.md",
     "Linux/подключение.md",
-    "Linux/База.md",
+    "Linux/Vim.md",
+    "Linux/Установка ПО на linux-сервер для Django.md",
+    "Развёртывание сайта/Путь запроса от клиента к серверу. Socket.md",
+    "media/Pasted image 20230726195244.png",
+    "media/Pasted image 20230726194124.png",
+    "Linux/Сетевые инструменты.md",
+    "Развёртывание сайта/Nginx.md",
+    "Развёртывание сайта/Gunicorn.md",
     "Интернет/TCP_IP.md",
+    "SQL/SQLAlchemy/База.md",
+    "README.md",
+    "Интернет/Процессор.md",
+    "Интернет/VPN.md",
+    "Интернет/Развёртывание сайта.md",
+    "Развёртывание сайта",
+    "Развёртывание сайта/Apache.md",
+    "media/Pasted image 20230726152532.png",
+    "Linux/База.md",
     "Интернет/Путь загрузки страницы.md",
     "media/Pasted image 20230726000407.png",
     "Интернет/SOAP.md",
@@ -161,30 +178,14 @@
     "Django Rest Framework/API.md",
     "Интернет/Http Https.md",
     "Интернет/ЯП виды.md",
-    "Интернет/Процессор.md",
     "Интернет/Коды ответа HTTP.md",
-    "Django/Django. БД/QuerySet. Агрегация данных.md",
     "Linux",
-    "Django/Django. БД/Оптимизация..md",
-    "Django Rest Framework/Тесты/CaptureQueriesContext.md",
     "media/Pasted image 20230724181339.png",
     "media/Pasted image 20230724173719.png",
-    "Django Rest Framework/Serializers/Вложенные словари.md",
     "media/Pasted image 20230724172208.png",
     "media/Pasted image 20230724170746.png",
-    "Django/Django. БД/SQL. annotate Value.md",
-    "Django/Django. база/Django Debug Toolbar + force.md",
     "media/Pasted image 20230724150448.png",
     "media/Pasted image 20230724150212.png",
-    "ООП/Теория/Singleton.md",
-    "ООП/Абстрактный класс.md",
-    "ООП/Атрибуты.md",
-    "Python/list особенности.md",
-    "Python/list tuple разница.md",
-    "Python/Неизменяемость кортежа.md",
-    "media/Pasted image 20230723185605.png",
-    "media/Pasted image 20230723172846.png",
-    "media/Pasted image 20230723171946.png",
     "Django Rest Framework/Serializers",
     "Django Rest Framework/Permission",
     "Postman",
@@ -193,7 +194,6 @@
     "Django Rest Framework/Фильтры",
     "Django Rest Framework/Тесты",
     "Django Rest Framework",
-    "SQL/Postqres",
     "Без названия 1.canvas",
     "Без названия.canvas"
   ]
