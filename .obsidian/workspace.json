@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Интернет/OSI.md",
+                "file": "Linux/команды.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Интернет/OSI.md",
+                "file": "Linux/команды.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Интернет/OSI.md",
+                "file": "Linux/команды.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Интернет/OSI.md"
+                "file": "Linux/команды.md"
               }
             }
           }
@@ -148,19 +148,23 @@
   },
   "active": "924d174db011092c",
   "lastOpenFiles": [
-    "Интернет/Прокси-сервер.md",
-    "Интернет/OSI.md",
-    "Linux/команды.md",
     "Linux/Комментарии.md",
-    "Linux/подключение.md",
     "Linux/Vim.md",
     "Linux/Установка ПО на linux-сервер для Django.md",
+    "Linux/команды.md",
+    "Linux/подключение.md",
+    "Развёртывание сайта/Gunicorn.md",
+    "Интернет/OSI.md",
+    "media/Pasted image 20230727171617.png",
+    "media/Pasted image 20230727171128.png",
+    "media/Pasted image 20230727170835.png",
+    "media/Pasted image 20230727170258.png",
+    "Интернет/Прокси-сервер.md",
     "Развёртывание сайта/Путь запроса от клиента к серверу. Socket.md",
     "media/Pasted image 20230726195244.png",
     "media/Pasted image 20230726194124.png",
     "Linux/Сетевые инструменты.md",
     "Развёртывание сайта/Nginx.md",
-    "Развёртывание сайта/Gunicorn.md",
     "Интернет/TCP_IP.md",
     "SQL/SQLAlchemy/База.md",
     "README.md",
@@ -178,14 +182,9 @@
     "Django Rest Framework/API.md",
     "Интернет/Http Https.md",
     "Интернет/ЯП виды.md",
-    "Интернет/Коды ответа HTTP.md",
     "Linux",
     "media/Pasted image 20230724181339.png",
     "media/Pasted image 20230724173719.png",
-    "media/Pasted image 20230724172208.png",
-    "media/Pasted image 20230724170746.png",
-    "media/Pasted image 20230724150448.png",
-    "media/Pasted image 20230724150212.png",
     "Django Rest Framework/Serializers",
     "Django Rest Framework/Permission",
     "Postman",
