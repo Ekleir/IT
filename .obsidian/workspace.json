@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/команды.md",
+                "file": "GIT/Git из IDE.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/команды.md",
+                "file": "GIT/Git из IDE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/команды.md",
+                "file": "GIT/Git из IDE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/команды.md"
+                "file": "GIT/Git из IDE.md"
               }
             }
           }
@@ -148,10 +148,20 @@
   },
   "active": "924d174db011092c",
   "lastOpenFiles": [
-    "Linux/Комментарии.md",
-    "Linux/Vim.md",
+    "media/Pasted image 20230728234948.png",
+    "media/Pasted image 20230728232533.png",
+    "media/Pasted image 20230728231744.png",
+    "media/Pasted image 20230728231532.png",
+    "GIT/Git консоль.md",
+    "GIT/Git из IDE.md",
+    "Linux/Разворачивание Django приложения на сервере.md",
+    "media/Pasted image 20230728165206.png",
+    "media/Pasted image 20230728163217.png",
+    "media/Pasted image 20230728162219.png",
     "Linux/Установка ПО на linux-сервер для Django.md",
     "Linux/команды.md",
+    "Linux/Комментарии.md",
+    "Linux/Vim.md",
     "Linux/подключение.md",
     "Развёртывание сайта/Gunicorn.md",
     "Интернет/OSI.md",
@@ -161,8 +171,6 @@
     "media/Pasted image 20230727170258.png",
     "Интернет/Прокси-сервер.md",
     "Развёртывание сайта/Путь запроса от клиента к серверу. Socket.md",
-    "media/Pasted image 20230726195244.png",
-    "media/Pasted image 20230726194124.png",
     "Linux/Сетевые инструменты.md",
     "Развёртывание сайта/Nginx.md",
     "Интернет/TCP_IP.md",
@@ -173,18 +181,11 @@
     "Интернет/Развёртывание сайта.md",
     "Развёртывание сайта",
     "Развёртывание сайта/Apache.md",
-    "media/Pasted image 20230726152532.png",
     "Linux/База.md",
     "Интернет/Путь загрузки страницы.md",
-    "media/Pasted image 20230726000407.png",
     "Интернет/SOAP.md",
     "Django Rest Framework/REST API.md",
-    "Django Rest Framework/API.md",
-    "Интернет/Http Https.md",
-    "Интернет/ЯП виды.md",
     "Linux",
-    "media/Pasted image 20230724181339.png",
-    "media/Pasted image 20230724173719.png",
     "Django Rest Framework/Serializers",
     "Django Rest Framework/Permission",
     "Postman",
