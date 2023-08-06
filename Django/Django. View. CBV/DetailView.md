@@ -8,3 +8,6 @@ _from_ django.views.generic _import_  DetailView
 > В html шаблоне обращение к переменной осуществляется по названию класса в нижнем регистре либо по переменной __object__
 ![[Pasted image 20230601195233.png]]
 имя __object__ можно переопределить через __context_object_name__
+
+Или передать модель и __slug-field__, Django сам добавит **detail** к переданной модели
+![[Pasted image 20230806235305.png]]

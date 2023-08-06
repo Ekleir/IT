@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Django/Django. View. CBV/Class Based Views.md",
+                "file": "Django/Django. View. CBV/ListView.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dict",
+                "query": "DetailView",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Django/Django. View. CBV/Class Based Views.md",
+                "file": "Django/Django. View. CBV/ListView.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Django/Django. View. CBV/Class Based Views.md",
+                "file": "Django/Django. View. CBV/ListView.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Django/Django. View. CBV/Class Based Views.md"
+                "file": "Django/Django. View. CBV/ListView.md"
               }
             }
           }
@@ -148,42 +148,41 @@
   },
   "active": "924d174db011092c",
   "lastOpenFiles": [
+    "Django/Django. View. CBV/DetailView.md",
+    "media/Pasted image 20230806235305.png",
+    "Django/Django. View. CBV/ListView.md",
+    "Django/Django. Templates/Templates. Тег a href.md",
+    "media/Pasted image 20230806232235.png",
+    "media/Pasted image 20230806231451.png",
+    "media/Pasted image 20230806231156.png",
+    "media/Pasted image 20230806231136.png",
+    "media/Pasted image 20230806231114.png",
+    "Django/Django. Templates/Templates. Создание фильтра.md",
+    "Django/Django. Templates/Templates. Динамический HTML Django.md",
+    "Django/Django. Templates/Templates. Базовый шаблон.md",
+    "Django/Django. Templates/Templates.md",
+    "Django/Django. БД/QuerySet, методы.md",
+    "HTML&CSS/HTML CSS.md",
+    "Django/Django. Файлы/models FileField.md",
+    "Django/Django. Файлы/Отображение файлов.md",
+    "Django/Django. Файлы/Загрузка через форму.md",
+    "Django/Django. Файлы/База.md",
+    "Django/Django. View. CBV/Class Based Views.md",
     "Django/Django. View. CBV/UpdateView.md",
     "Django/Django. View. CBV/TemplateView.md",
-    "Django/Django. View. CBV/ListView.md",
     "Django/Django. View. CBV/FormView.md",
-    "Django/Django. View. CBV/DetailView.md",
     "Django/Django. View. CBV/CreateView.md",
     "Django/Django. Формы. ModelForm/ModelForm. Создание формы из модели.md",
     "Django/Django. Формы. ModelForm/update Form.md",
-    "Django/Django. View. CBV/Class Based Views.md",
     "Django/Django. Формы.Forms/Сохранение формы в БД(базовое).md",
     "Django/Django. Формы.Forms/Настройка полей и стилей.md",
     "Django/Django. Формы.Forms/Валидация(базовая, из формы).md",
     "Django/Django. Формы.Forms/Form(базовое).md",
     "ООП/__slots__.md",
-    "ООП/магические методы/__dict__.md",
-    "GIT/Git из IDE.md",
-    "ООП/магические методы/__setattr__.md",
-    "ООП/Теория/Атрибуты класса.md",
-    "Python/isinstance.md",
-    "ООП/декораторы/@property. Сеттер, геттер.md",
-    "Django Rest Framework/view.md",
-    "Django Rest Framework/SimpleRouter.md",
-    "Django Rest Framework/REST API.md",
-    "Django Rest Framework/lookup_field get_object.md",
-    "Django Rest Framework/API для клиента.md",
-    "Django Rest Framework/API.md",
     "media/Pasted image 20230730003927.png",
     "media/Pasted image 20230730003837.png",
     "media/Pasted image 20230729170255.png",
     "media/Pasted image 20230729165236.png",
-    "media/Pasted image 20230728234948.png",
-    "media/Pasted image 20230728232533.png",
-    "media/Pasted image 20230728231744.png",
-    "media/Pasted image 20230728231532.png",
-    "media/Pasted image 20230728165206.png",
-    "media/Pasted image 20230728163217.png",
     "Развёртывание сайта",
     "Linux",
     "Django Rest Framework/Serializers",
