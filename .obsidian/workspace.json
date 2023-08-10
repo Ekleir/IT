@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Django/Django. Связи между таблицами/OneToOne.md",
+                "file": "Django/Django. admin/admin.py.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "_set",
+                "query": "list_display",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Django/Django. Связи между таблицами/OneToOne.md",
+                "file": "Django/Django. admin/admin.py.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Django/Django. Связи между таблицами/OneToOne.md",
+                "file": "Django/Django. admin/admin.py.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Django/Django. Связи между таблицами/OneToOne.md"
+                "file": "Django/Django. admin/admin.py.md"
               }
             }
           }
@@ -149,6 +149,15 @@
   },
   "active": "924d174db011092c",
   "lastOpenFiles": [
+    "Django/Django. admin/Вычисляемое поле.md",
+    "Django/Django. Связи между таблицами/ForeignKey self.md",
+    "media/Pasted image 20230810173951.png",
+    "media/Pasted image 20230810173254.png",
+    "media/Pasted image 20230810173216.png",
+    "Django/Django. Связи между таблицами/ManyToOne.md",
+    "Django/Django. Связи между таблицами/ManyToMany.md",
+    "SQL/Postqres/Foreign key.md",
+    "Django/Django. Связи между таблицами/OneToOne.md",
     "Django/Django. Формы.Forms/Сохранение формы в БД, доп.поля.md",
     "media/Pasted image 20230809002623.png",
     "media/Pasted image 20230809002343.png",
@@ -163,8 +172,6 @@
     "media/Pasted image 20230806232235.png",
     "media/Pasted image 20230806231451.png",
     "media/Pasted image 20230806231156.png",
-    "media/Pasted image 20230806231136.png",
-    "media/Pasted image 20230806231114.png",
     "Django/Django. Templates/Templates. Создание фильтра.md",
     "Django/Django. Templates/Templates. Динамический HTML Django.md",
     "Django/Django. Templates/Templates. Базовый шаблон.md",
@@ -178,12 +185,6 @@
     "Django/Django. View. CBV/UpdateView.md",
     "Django/Django. View. CBV/TemplateView.md",
     "Django/Django. View. CBV/FormView.md",
-    "Django/Django. View. CBV/CreateView.md",
-    "Django/Django. Формы. ModelForm/ModelForm. Создание формы из модели.md",
-    "Django/Django. Формы. ModelForm/update Form.md",
-    "Django/Django. Формы.Forms/Настройка полей и стилей.md",
-    "Django/Django. Формы.Forms/Валидация(базовая, из формы).md",
-    "media/Pasted image 20230730003927.png",
     "Развёртывание сайта",
     "Linux",
     "Django Rest Framework/Serializers",
