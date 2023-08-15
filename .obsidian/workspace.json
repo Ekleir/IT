@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Django/Django. admin/admin.py.md",
+                "file": "Django/Django. Templates/Templates. Создание фильтра, тега.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "list_display",
+                "query": "фильтр",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Django/Django. admin/admin.py.md",
+                "file": "Django/Django. Templates/Templates. Создание фильтра, тега.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Django/Django. admin/admin.py.md",
+                "file": "Django/Django. Templates/Templates. Создание фильтра, тега.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Django/Django. admin/admin.py.md"
+                "file": "Django/Django. Templates/Templates. Создание фильтра, тега.md"
               }
             }
           }
@@ -149,42 +148,42 @@
   },
   "active": "924d174db011092c",
   "lastOpenFiles": [
-    "Django/Django. admin/Вычисляемое поле.md",
-    "Django/Django. Связи между таблицами/ForeignKey self.md",
-    "media/Pasted image 20230810173951.png",
-    "media/Pasted image 20230810173254.png",
-    "media/Pasted image 20230810173216.png",
-    "Django/Django. Связи между таблицами/ManyToOne.md",
-    "Django/Django. Связи между таблицами/ManyToMany.md",
-    "SQL/Postqres/Foreign key.md",
-    "Django/Django. Связи между таблицами/OneToOne.md",
-    "Django/Django. Формы.Forms/Сохранение формы в БД, доп.поля.md",
-    "media/Pasted image 20230809002623.png",
-    "media/Pasted image 20230809002343.png",
-    "media/Pasted image 20230809002319.png",
-    "Django/Django. Формы.Forms/Сохранение формы в БД(базовое).md",
-    "Django/Django. Формы.Forms/Form(базовое).md",
-    "Django/Django. Файлы/Загрузка через форму.md",
-    "Django/Django. View. CBV/ListView.md",
-    "Django/Django. View. CBV/DetailView.md",
-    "media/Pasted image 20230806235305.png",
-    "Django/Django. Templates/Templates. Тег a href.md",
-    "media/Pasted image 20230806232235.png",
-    "media/Pasted image 20230806231451.png",
-    "media/Pasted image 20230806231156.png",
-    "Django/Django. Templates/Templates. Создание фильтра.md",
-    "Django/Django. Templates/Templates. Динамический HTML Django.md",
-    "Django/Django. Templates/Templates. Базовый шаблон.md",
-    "Django/Django. Templates/Templates.md",
-    "Django/Django. БД/QuerySet, методы.md",
-    "HTML&CSS/HTML CSS.md",
-    "Django/Django. Файлы/models FileField.md",
-    "Django/Django. Файлы/Отображение файлов.md",
-    "Django/Django. Файлы/База.md",
-    "Django/Django. View. CBV/Class Based Views.md",
-    "Django/Django. View. CBV/UpdateView.md",
+    "media/Pasted image 20230814214945.png",
+    "media/Pasted image 20230814213820.png",
+    "media/Pasted image 20230814193917.png",
+    "Django/Django. БД/QuerySet. Объект F.md",
+    "SQL/Postqres/LIKE, постановочные знаки.md",
+    "Django/Django. admin/Фильтры в админке.md",
     "Django/Django. View. CBV/TemplateView.md",
-    "Django/Django. View. CBV/FormView.md",
+    "Django/Django. admin/Создание действия в админке.md",
+    "Django/ckeditor.md",
+    "media/Pasted image 20230813175850.png",
+    "media/Pasted image 20230813173523.png",
+    "Django/Django. admin/Смена имен приложения в admin.md",
+    "media/Pasted image 20230811220942.png",
+    "media/Pasted image 20230811212943.png",
+    "Django/Django. база/Converter. Создание своего.md",
+    "Django/Django. база/Начало проекта Django.md",
+    "Django/Django. база/Count, Case, When.md",
+    "Django/Django. база/Django Debug Toolbar + force.md",
+    "Django/Django. база/get_object_or_404.md",
+    "Django/Django. база/MVC.md",
+    "Django/Django. база/ngettext.md",
+    "Django/Django. admin/Настройка формы ЭЛЕМЕНТА.md",
+    "media/Pasted image 20230811211803.png",
+    "Django/Django. admin/Валидаторы.md",
+    "Django/Django. admin/Вычисляемое поле.md",
+    "Django/Django. admin/mark_safe.md",
+    "media/Pasted image 20230811210009.png",
+    "media/Pasted image 20230811191738.png",
+    "media/Pasted image 20230811191715.png",
+    "Django/Django. admin/Настройка отображения СПИСКА.md",
+    "Django/Django. admin/StackedInline TabularInline.md",
+    "Django/Django. admin/admin.py.md",
+    "Django/Django. admin/Поле choices.md",
+    "Django/Django. admin/Поисковая панель.md",
+    "Django Rest Framework/Фильтры/SearchFilter.md",
+    "Django/Django. Связи между таблицами/ForeignKey self.md",
     "Развёртывание сайта",
     "Linux",
     "Django Rest Framework/Serializers",
